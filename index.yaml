@@ -2,6 +2,7 @@
 id: openlabs_mock
 name: Openlabs Demo
 description: Easy to use immersive learning platform.
+keywords: openlabs, openlabs demo, demo, immersive, learning
 branding:
     logo: _images/logo.png
     banner: _images/banner.png
