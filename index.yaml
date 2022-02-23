@@ -1,5 +1,6 @@
 ---
 name: Openlabs Demo
+private: false
 description: Easy to use immersive learning platform.
 keywords: openlabs, openlabs demo, demo, immersive, learning
 branding:
