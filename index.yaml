@@ -28,8 +28,8 @@ environment:
         enabled: true
     ide:
         name: IDE
-        enabled: false
-        url: '{{ IDE.url }}'
+        enabled: true
+        url: 'https://ec2-54-80-94-196.compute-1.amazonaws.com/codeserver/'
     application:
         name: App Preview
         url: '{{ DNS.host }}'
